@@ -5,7 +5,7 @@
 
 ## 🖐 Introducción
 
-Este manual está diseñado para que cualquier usuario comprenda el funcionamiento general del sistema de monitoreo basado en **ESP8266 con pantalla de 0.9”** y servidor web PHP, incluyendo su integración con **Telegram**.
+Este manual está diseñado para mostrar el funcionamiento general del sistema de monitoreo basado en **ESP8266 con pantalla de 0.9”** y servidor web PHP, incluyendo su integración con **Telegram**.
 
 El sistema permite detectar cortes de energía, pérdidas de conexión WiFi o fallos en la red, notificando en tiempo real al usuario por medio de:
 - Mensajes automáticos al servidor PHP.
