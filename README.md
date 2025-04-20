@@ -97,5 +97,4 @@ De esta forma siempre estarás informado de lo que ocurre, y podrás actuar ráp
 
 ---
 
-![75067S3590cd3747434bdead931e3ae90ee80cG.jpg](anVhbm1vbGltb2xpQGdtYWlsLmNvbQ==/upload/75067S3590cd3747434bdead931e3ae90ee80cG.jpg)
-
+![S3590cd3747434bdead931e3ae90ee80cG](https://github.com/user-attachments/assets/6c959965-4735-461a-8c0e-a7554731e29c)
